@@ -2,5 +2,13 @@
   "name": "peanut-factory-discord-bot",
   "version": "1.0.0",
   "main": "main.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "random-js": "^1.0.8"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.0",
+    "eslint-config-google": "^0.9.1"
+  }
 }

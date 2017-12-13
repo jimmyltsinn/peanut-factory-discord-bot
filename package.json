@@ -8,6 +8,7 @@
     "random-js": "^1.0.8"
   },
   "devDependencies": {
+    "babel-eslint": "^8.0.3",
     "eslint": "^4.13.0",
     "eslint-config-google": "^0.9.1"
   }
